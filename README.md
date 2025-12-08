@@ -15,3 +15,10 @@ The last sheet is the anaylsis sheet that shows the total grade that was achieve
 
 ### Project 2
 
+In this project, I used python to practice trying to use a dataset to be able to use the data and to be able to find the data that I needed. This meant that I was using different methods such as slicing as well as uploading the dataset from the google drive to be able to use the dataset and manipulate the data so that I can successfully practice with it.
+
+<img width="1318" height="1128" alt="image" src="https://github.com/user-attachments/assets/9a3c3060-00af-4c1e-a932-3d5376cf9ef2" />
+
+I then practiced adding different coloumns into the data in python as well as adding a true and false statement so that the scores that were achieved would be catagorised.
+
+<img width="1592" height="1144" alt="image" src="https://github.com/user-attachments/assets/39155c2a-1357-4f11-af7c-c49bcc561ef7" />
