@@ -5,8 +5,13 @@ My first project was using a data set in excel to create and customise the datas
 
 <img width="1696" height="1088" alt="image" src="https://github.com/user-attachments/assets/9eb68263-5f6f-4489-a8a0-2e355752d0a0" />
 
+I then used the other sheet on excel to have the tables which would be used for the vlookup formulas so that they would be able to get the information and then transfer it to the main database sheet.
 
+<img width="1234" height="712" alt="image" src="https://github.com/user-attachments/assets/47280c68-514a-4128-8757-9715e7f5bb0a" />
 
+The last sheet is the anaylsis sheet that shows the total grade that was achieved and counts the number of students that have achieved their expected grades or have went above them or below.                       
 
-### Project 2 
-### Project 3
+<img width="1680" height="1064" alt="image" src="https://github.com/user-attachments/assets/a9b0e92a-fb3d-4ada-8799-9841bcf89c30" />
+
+### Project 2
+
