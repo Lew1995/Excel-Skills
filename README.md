@@ -1,4 +1,4 @@
-# Data-skills
+# Data skills in Excel
 ## Project for Excel skills
 ### Excel project 
 My first project was using a dataset in Excel which was supplied by Bede College while I did my IT course. This was a plain spreadsheet and therefore needed to be changed so that the data would be easier to understand and the way that I did this was by using filter along the coloumns so that the information could be filtered and that whoever used the spreadsheet could find what they were looking for more easily. I also used the conditional format feature using a traffic light system so that the information would be instantly easier to understand. In Excel I also used different formulas such as VLOOKUP and COUNTIF.
