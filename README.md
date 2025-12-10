@@ -12,9 +12,3 @@ I then used the other sheet on excel to have the tables which would be used for 
 The last sheet is the anaylsis sheet that shows the total grade that was achieved and counts the number of students that have achieved their expected grades or have went above them or below.                       
 
 <img width="1680" height="1064" alt="image" src="https://github.com/user-attachments/assets/a9b0e92a-fb3d-4ada-8799-9841bcf89c30" />
-
-### Python project
-
-In this project, I used python to practice trying to use a dataset to be able to use the data and to be able to find the data that I needed. This meant that I was using different methods such as slicing as well as uploading the dataset from the google drive to be able to use the dataset and manipulate the data so that I can successfully practice with it.
-
-
